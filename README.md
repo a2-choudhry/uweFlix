@@ -1,2 +1,2 @@
 # uweFlix
-This is uweflix developed by group 11
+UWEFLIX is a Docker containerized Django project that powers an online cinema booking system. This application provides a userfriendly website where it can easily access movie listings, show timings, and other essential information for booking their favorite movies at cinemas. Leveraging the power of containerization through Docker, UWEFLIX ensures seamless deployment and scalability, making it a reliable and efficient solution for cinema management and moviegoers alike
